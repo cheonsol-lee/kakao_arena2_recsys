@@ -1,1 +1,1 @@
-# kakao_arena2_recosys
+# kakao_arena2_recsys
